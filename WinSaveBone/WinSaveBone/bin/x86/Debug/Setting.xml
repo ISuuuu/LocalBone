@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+
+  <Setting Name="DataBase" >
+    <AddItem Name="SQLite" Type="SQLite" Server="" DataBaseName="hande.db" UserID="" Password="" />
+
+  </Setting>
+  <Setting Name="Card">
+    <AddItem Name="Key" Type="Keyboard" Com="?" AutoRead="True" Enabled="sTrue" InstrumentLink="" />
+    <AddItem Name="SCTB" Type="SCTB" Com="COM5" AutoRead="True" Enabled="True" InstrumentLink="" />
+    <AddItem Name="CVRUTH" Type="CVRUTH" Com="1001" AutoRead="True" Enabled="sTrue" InstrumentLink="" />
+  </Setting>
+
+  <!-- 路径，仪器型?设置ResultData骨密度保存结果文件的地方，backup备份 -->
+  <Setting Name="DeviceInfo">
+    <AddItem Name="WritePath" Values="E:\zjl\zjl2012\WinSaveBone\WinSaveBone\bin\x86\Debug\patient.ini"/>
+    <AddItem Name="ResultData" Values="E:\zjl\zjl2012\WinSaveBone\WinSaveBone\bin\x86\Debug\aa"/>
+    <AddItem Name="Backup" Values="e:\Hande\动脉硬化\f3ResultData\backup"/>
+  </Setting>
+
+  <Setting Name="fenbianlv">
+    <AddItem Name="fbl"  xDpi="120" yDpi="120"/>
+  </Setting>
+
+
+  <Setting Name="Soft" >
+    <AddItem Name= "DefaultUser" UserName="999" Password="123" Enabled="True" />
+
+    <AddItem Name= "Support" Support=""  />
+  </Setting>
+
+ 
+
+</Settings>
