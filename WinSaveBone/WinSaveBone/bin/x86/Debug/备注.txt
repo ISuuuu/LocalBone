@@ -1,6 +1,0 @@
-jobextTest.exe 	控制台测试程序
-
-jobextT.dll    	对外接口动态库，接口详情请查看"易联众读写器jobextT.dll接口文档.pdf"
-dcic32.dll		依赖库
-wdcrwv.dll		依赖库
-wdic32.dll		依赖库
