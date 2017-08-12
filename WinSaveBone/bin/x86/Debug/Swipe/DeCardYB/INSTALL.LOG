@@ -1,0 +1,32 @@
+***  Installation Started 07/25/2012 20:07  ***
+Title: 宁波社保卡驱动程序 安装
+Source: C:\Documents and Settings\Administrator\桌面\市级医保一卡通接口规范\市级医保一卡通接口规范\宁波社保卡驱动V1.0.0.11\宁波社保卡驱动V1.0.0.11.EXE | 07-16-2012 | 10:46:14 | 1834142
+Made Dir: C:\NBYBJKYY
+File Copy: C:\NBYBJKYY\UNWISE.EXE | 08-08-2002 | 23:40:48 | | 153088 | 833b8ad1
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\宁波社保卡驱动程序
+RegDB Val: 宁波社保卡驱动程序
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\宁波社保卡驱动程序
+RegDB Val: C:\NBYBJKYY\UNWISE.EXE C:\NBYBJKYY\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+File Copy: C:\NBYBJKYY\版本历史.txt | 07-16-2012 | 10:42:38 | | 349 | 5fedf06c
+File Copy: C:\NBYBJKYY\DLL_SetUp.exe | 09-13-2011 | 17:00:54 | | 449024 | 40d543af
+File Copy: C:\NBYBJKYY\common.ini | 02-22-2012 | 17:11:10 | | 38 | eb28b764
+File Copy: C:\NBYBJKYY\hgic.dll | 06-16-2002 | 15:39:50 | | 139264 | 68bb4e87
+File Copy: C:\NBYBJKYY\hgic_file.dll | 12-04-2001 | 10:04:12 | | 81920 | 1760743e
+File Copy: C:\NBYBJKYY\mdClient.dll | 09-19-2011 | 17:13:40 | 1.0.0.0 | 442880 | 5abce00e
+File Copy: C:\NBYBJKYY\mdconfig.ini | 09-09-2011 | 17:47:58 | | 260 | 3dbbf7b4
+File Copy: C:\NBYBJKYY\NBYB_YLJG.dll | 07-13-2011 | 17:19:32 | | 430080 | 9b68d500
+File Copy: C:\NBYBJKYY\NBYB_YLJG.dll 调用说明.txt | 08-23-2011 | 10:05:52 | | 1680 | e639f78a
+File Copy: C:\NBYBJKYY\USBDll.dll | 09-22-2008 | 16:54:44 | 1.0.0.1 | 36864 | ba085b1d
+File Copy: C:\NBYBJKYY\YB_Card.dll | 09-28-2011 | 19:14:26 | | 424960 | 73727082
+File Copy: C:\NBYBJKYY\YB_Card.dll 调用说明.txt | 08-23-2011 | 10:06:12 | | 2046 | 3f2d07fe
+File Copy: C:\NBYBJKYY\YB_VER.dll | 09-28-2011 | 10:01:04 | | 85504 | 4188caef
+File Copy: C:\NBYBJKYY\SI_ICCReader.DLL | 04-24-2012 | 18:28:08 | | 98304 | 9083ba39
+File Copy: C:\NBYBJKYY\dcrf32.dll | 07-27-2011 | 18:27:24 | 7.0.3.6 | 131072 | c1460c63
+File Copy: C:\NBYBJKYY\dcic32.dll | 07-02-2011 | 10:19:14 | 3.0.4.7 | 143360 | ee1acde8
+Could not Self-Register: C:\NBYBJKYY\mdClient.dll
+INI New: Created INI
+User Rights: Admin

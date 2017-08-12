@@ -1,0 +1,6 @@
+V1.0.0.6  变更住院类交易中Y031、Y034和Y035的超时策略。修改文件：NBYB_YLJG.dll。
+V1.0.0.7  修改屏蔽宁海卡的读取。修改文件：NBYB_YLJG.dll、YB_Card.dll、YB_Yer.dll
+V1.0.0.8  都能读宁海卡。修改文件：NBYB_YLJG.dll、YB_Card.dll
+V1.0.0.9  能读最新的金融银行卡
+V1.0.0.10  修改：SI_ICCReader.dll
+V1.0.0.11  修改：NBYB_YLJG.dll,增加回填帐户状态和待遇类别
