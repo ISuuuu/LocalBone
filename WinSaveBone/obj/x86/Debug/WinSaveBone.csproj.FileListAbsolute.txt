@@ -34,3 +34,6 @@ D:\me\WinSaveBone\WinSaveBone\WinSaveBone\bin\x86\Debug\office.dll
 D:\me\WinSaveBone\WinSaveBone\WinSaveBone\bin\x86\Debug\Microsoft.Vbe.Interop.dll
 D:\me\WinSaveBone\WinSaveBone\WinSaveBone\bin\x86\Debug\HandeSwipe.pdb
 D:\me\WinSaveBone\WinSaveBone\WinSaveBone\bin\x86\Debug\HandeSwipe.xml
+E:\gittest\LocalBone\WinSaveBone\bin\x86\Debug\WinSaveBone.exe.config
+E:\gittest\LocalBone\WinSaveBone\obj\x86\Debug\WinSaveBone.exe
+E:\gittest\LocalBone\WinSaveBone\obj\x86\Debug\WinSaveBone.pdb
